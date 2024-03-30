@@ -6,7 +6,11 @@ Moreover, relocation availability is assessed, providing crucial information on 
 Additionally, the dashboard examines marital status distribution among employees, providing valuable context for HR strategies and initiatives. Years of experience are tracked meticulously, enabling stakeholders to gauge the level of expertise and tenure within the industry.
 Lastly, an interactive map visualizes the global distribution of employees, offering a geographical perspective on workforce demographics. Overall, this HR Dashboard serves as a comprehensive tool for stakeholders to make informed decisions and strategic interventions in the data professional domain.
 
-![Screenshot (43)](https://github.com/fatm2/HR-Report--Power-BI/assets/109034314/db92d4c6-423a-403a-92a0-5545bb4283c0)
+
+
+![Screenshot (45)](https://github.com/fatm2/HR-Report--Power-BI/assets/109034314/1fa2edee-e18e-4ee9-8473-1e7f2eeed620)
+
+
 
 
 
